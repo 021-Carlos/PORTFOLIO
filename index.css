@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body{
+    color: rgb(188, 188, 188);
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    background: url(plano-de-fundo-da-area-de-trabalho-moderno-vetor-de-desenho-geometrico-azul_53876-135923.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50px;
+    border: 5px solid blue;
+}
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    color: rgb(248, 248, 248);
+}
+
+.conteiner {
+    padding: 0px 50px;
+}
+
+nav a:hover {
+    color: blue;
+}
+
